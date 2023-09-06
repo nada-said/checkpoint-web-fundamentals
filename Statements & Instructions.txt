@@ -1,0 +1,10 @@
+How does the web work?
+the web works by using a client-server model, where web servers store and serve web content, and web clients  request and display that content. The HTTP protocol governs the communication between clients and servers, resources to create a vast and interconnected network of information and services on the internet.
+
+What do you need to be a web developers?
+
+you need a combination of education, skills, and experience. 
+
+
+Why did you choose to learn web developpement ?
+ their motivations can vary from personal interest to career goals
